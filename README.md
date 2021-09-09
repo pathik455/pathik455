@@ -50,3 +50,8 @@ A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degr
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathik455&" alt="pathik455" /></p>
 <h1><u><u></h1>
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
