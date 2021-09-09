@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Pathik Shah</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+![](https://drive.google.com/drive/u/0/my-drive)
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank"> Pathik Shah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+
+A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields. ⚡
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathik455&label=Profile%20views&color=0e75b6&style=flat" alt="pathik455" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathik455" alt="pathik455" /></a> </p>
+<div align="center">
 
 - 🔭 I’m currently working on **Data Struture and Algorithms**
 
