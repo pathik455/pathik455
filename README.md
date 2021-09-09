@@ -1,4 +1,4 @@
-![](https://drive.google.com/drive/u/0/my-drive)
+![](https://github.com/pathik455/pathik455/blob/main/Profile_Banner.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank"> Pathik Shah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
