@@ -1,4 +1,4 @@
-![](https://github.com/pathik455/pathik455/blob/main/Profile_Banner.png)
+![](https://github.com/pathik455/pathik455/blob/main/Screenshot%202021-09-28%20at%2011.29.17%20PM.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank"> Pathik Shah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/pathik455/pathik455/blob/main/image.gif" >
 
