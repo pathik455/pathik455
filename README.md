@@ -1,6 +1,10 @@
 ![](https://github.com/pathik455/pathik455/blob/main/Screenshot%202021-09-28%20at%2011.29.17%20PM.png)
+
+<!-- Header -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank"> Pathik Shah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/pathik455/pathik455/blob/main/image.gif" >
+
+<!-- Intro -->
 A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields. ⚡
 
  <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=pathik455&label=Profile%20views&color=0e75b6&style=flat" alt="pathik455" /> </p></h3>
@@ -15,18 +19,17 @@ A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degr
 - 💬 Ask me about **Design and FrontEnd Dev**
 
  - 📫 How to reach me **pathik455@gmail.com**
+<h1><u><u></h1>
 
-
-   <h1><u><u></h1>
-
+<!--  Connect with me  -->
  <h3 align="center">Connect with me</h3>
  <p align="center">
  <a href="https://linkedin.com/in/pathik455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathik455" height="30" width="40" /></a>
 <a href="https://instagram.com/pathik455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pathik455" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCLnk_QrbvOm1mvlKJPgr6WQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclnk_qrbvom1mvlkjpgr6wq" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pathik455" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pathik455" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pathik455" target="blank"><img align="center" src="https://vinitshahdeo.github.io/CodeChef-VIT-Website/img/about/logo.jpeg" alt="pathik455" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pathik455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pathik455" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ps_455" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ps_455" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ps_455" target="blank"><img align="center" src="https://www.stopstalk.com/stopstalk/static/images/codeforces_logo.png?_rev=20200525084052" alt="ps_455" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ps_455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ps_455" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pathik455/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pathik455/profile" height="30" width="40" /></a>
  </p>
@@ -36,6 +39,7 @@ A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degr
  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathik455&show_icons=true&locale=en&layout=compact" alt="pathik455" /></p>
  <h1><u><u></h1>
 
+<!-- Languages and Tools Learning -->
  <h3 align="center">Languages and Tools Learning</h3>
  <p align="center">
      <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
@@ -63,6 +67,8 @@ A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degr
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathik455&" alt="pathik455" /></p>
 <h1><u><u></h1>
+ 
+<!--  Footer -->
 <div align="center">
   <h3> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! </h3>
 </div>
