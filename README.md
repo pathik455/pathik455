@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank"> Pathik Shah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://github.com/pathik455/pathik455/blob/main/image.gif" >
+<img width="40%" align="right" src="https://github.com/pathik455/pathik455/blob/main/image.gif">
 
 <!-- Intro -->
 A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields. ⚡
