@@ -6,7 +6,7 @@
 <!-- Intro -->
 <p align="center" width="40%"> A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields.⚡</p>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/pathik455/pathik455/blob/main/image.gif" align="center" width=400px>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/pathik455/pathik455/blob/main/image.gif" align="center" width=400px>
 
 
 
