@@ -2,10 +2,13 @@
 
 <!-- Header -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank"> Pathik Shah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<img width="40%" align="right" src="https://github.com/pathik455/pathik455/blob/main/image.gif">
 
 <!-- Intro -->
-A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields. ⚡
+<p align="center" width="40%"> A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields.⚡</p>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/pathik455/pathik455/blob/main/image.gif" align="center" width=400px>
+
+
 
  <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=pathik455&label=Profile%20views&color=0e75b6&style=flat" alt="pathik455" /> </p></h3>
  <br></br>
@@ -51,7 +54,7 @@ A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degr
      <a href="https://getbootstrap.com" target="_blank"> <img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack.png" alt="bootstrap" width="40" height="40" /> </a>
      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" /> </a>
+     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/pathik455/pathik455/blob/main/django.png" alt="django" width="40" height="40" /> </a>
      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
      <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
