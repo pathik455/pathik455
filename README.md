@@ -1,15 +1,14 @@
 ![](https://github.com/pathik455/pathik455/blob/main/Screenshot%202021-09-28%20at%2011.29.17%20PM.png)
 
 <!-- Header -->
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank"> Pathik Shah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank"> Pathik Shah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 
 <!-- Intro -->
-<p align="center" width="40%"> A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields.⚡</p>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/pathik455/pathik455/blob/main/image.gif" align="center" width=400px>
-
+<img align="right" width="430" src="https://github.com/pathik455/pathik455/blob/main/image.gif">
+<p align="left"> A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields.⚡</p>
 
 
+ <br></br>
  <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=pathik455&label=Profile%20views&color=0e75b6&style=flat" alt="pathik455" /> </p></h3>
  <br></br>
 
