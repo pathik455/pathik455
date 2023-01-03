@@ -9,8 +9,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+You+for+Visiting+&hearts;++;Passionate+Software+Engineer;Learning+Data+Structures+and+Algorithms;MERN+Stack+Developer;Open+Source+Contributor+<3"></a>
 </p>
 
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=pathik455&label=Profile%20views&color=0e75b6&style=flat" alt="pathik455" /> </p></h3>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,7 +25,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <h3 align="center">Connect with me</h3>
  <p align="center">
- <a href="https://linkedin.com/in/pathik455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathik455" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/pathik455" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3ppApKLoKhF_P9u0-Nv7bL&ust=1672856659577000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJClrumCrPwCFQAAAAAdAAAAABAE" alt="pathik455" height="30" width="40" /></a>
 <a href="https://instagram.com/pathik455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pathik455" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCLnk_QrbvOm1mvlKJPgr6WQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclnk_qrbvom1mvlkjpgr6wq" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pathik455" target="blank"><img align="center" src="https://vinitshahdeo.github.io/CodeChef-VIT-Website/img/about/logo.jpeg" alt="pathik455" height="30" width="40" /></a>
@@ -39,7 +37,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
- <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathik455&show_icons=true&locale=en&layout=compact" alt="pathik455" /></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathik455&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="pathik455"/></p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Languages and Tools Learning -->
@@ -65,13 +63,10 @@
  </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pathik455&show_icons=true&locale=en" alt="pathik455" /></p>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathik455&" alt="pathik455" /></p>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pathik455&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/></p>
  
 <!--  Footer -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <h3> 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! </h3>
 </div>
