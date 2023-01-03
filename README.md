@@ -25,14 +25,14 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <h3 align="center">Connect with me</h3>
  <p align="center">
- <a href="https://linkedin.com/in/pathik455" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3ppApKLoKhF_P9u0-Nv7bL&ust=1672856659577000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJClrumCrPwCFQAAAAAdAAAAABAE" alt="pathik455" height="30" width="40" /></a>
-<a href="https://instagram.com/pathik455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pathik455" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCLnk_QrbvOm1mvlKJPgr6WQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclnk_qrbvom1mvlkjpgr6wq" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/pathik455" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="pathik455" height="30" width="40" /></a>
+<a href="https://instagram.com/pathik455" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="pathik455" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLnk_QrbvOm1mvlKJPgr6WQ" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="uclnk_qrbvom1mvlkjpgr6wq" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pathik455" target="blank"><img align="center" src="https://vinitshahdeo.github.io/CodeChef-VIT-Website/img/about/logo.jpeg" alt="pathik455" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pathik455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pathik455" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pathik455" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="pathik455" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ps_455" target="blank"><img align="center" src="https://www.stopstalk.com/stopstalk/static/images/codeforces_logo.png?_rev=20200525084052" alt="ps_455" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ps_455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ps_455" height="30" width="40" /></a>
- <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pathik455/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pathik455/profile" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ps_455" target="blank"><img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="ps_455" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pathik455/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="https://auth.geeksforgeeks.org/user/pathik455/profile" height="30" width="40" /></a>
  </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
