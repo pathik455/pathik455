@@ -5,7 +5,9 @@
 
 <!-- Intro -->
 <img align="right" width="430" src="https://github.com/pathik455/pathik455/blob/main/image.gif">
-<p align="left"> A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields.⚡</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+You+for+Visiting+&hearts;++;Passionate+Software+Engineer;Learning+Data+Structures+and+Algorithms;MERN+Stack+Developer;Open+Source+Contributor+<3"></a>
+</p>
 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
