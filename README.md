@@ -1,18 +1,17 @@
 ![](https://github.com/pathik455/pathik455/blob/main/Screenshot%202021-09-28%20at%2011.29.17%20PM.png)
 
 <!-- Header -->
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank"> Pathik Shah </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank">Pathik Shah</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 
 <!-- Intro -->
 <img align="right" width="430" src="https://github.com/pathik455/pathik455/blob/main/image.gif">
 <p align="left"> A bit about Myself, I am <b>Pathik Shah</b> pursuing my <b>Computer Science Degree</b> from Pandit Deendayal Energy University, Currently in my Third-Year of B.Tech. As of now, I am focused on <b>Web Development, Networking, and Designing</b> but still, wish to explore many fields.⚡</p>
 
 
- <br></br>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=pathik455&label=Profile%20views&color=0e75b6&style=flat" alt="pathik455" /> </p></h3>
- <br></br>
 
- <h1><u><u></h1>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  - 🔭 I’m currently working on **Data Struture and Algorithms**
 - 🌱 I’m currently learning **JavaScript, MERN stack(MongoDB, Express, React, Node)**
@@ -21,9 +20,9 @@
 - 💬 Ask me about **Design and FrontEnd Dev**
 
  - 📫 How to reach me **pathik455@gmail.com**
-<h1><u><u></h1>
 
 <!--  Connect with me  -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <h3 align="center">Connect with me</h3>
  <p align="center">
  <a href="https://linkedin.com/in/pathik455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathik455" height="30" width="40" /></a>
@@ -35,11 +34,11 @@
 <a href="https://www.leetcode.com/ps_455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ps_455" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pathik455/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pathik455/profile" height="30" width="40" /></a>
  </p>
-   <h1><u><u></h1>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathik455&show_icons=true&locale=en&layout=compact" alt="pathik455" /></p>
- <h1><u><u></h1>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Languages and Tools Learning -->
  <h3 align="center">Languages and Tools Learning</h3>
@@ -62,13 +61,13 @@
      <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
      <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a> -->
  </p>
-   <h1><u><u></h1>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pathik455&show_icons=true&locale=en" alt="pathik455" /></p>
- <h1><u><u></h1>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathik455&" alt="pathik455" /></p>
-<h1><u><u></h1>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 <!--  Footer -->
 <div align="center">
