@@ -1,10 +1,9 @@
-![](https://github.com/pathik455/pathik455/blob/main/Screenshot%202021-09-28%20at%2011.29.17%20PM.png)
+![](https://github.com/pathik455/pathik455/blob/main/Profile_Banner.png)
 
 <!-- Header -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/pathik455/" target="_blank">Pathik Shah</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 
 <!-- Intro -->
-<img align="right" width="430" src="https://github.com/pathik455/pathik455/blob/main/image.gif">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thank+You+for+Visiting+&hearts;++;Passionate+Software+Engineer;Learning+Data+Structures+and+Algorithms;MERN+Stack+Developer;Open+Source+Contributor+<3"></a>
 </p>
