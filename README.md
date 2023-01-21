@@ -29,8 +29,8 @@
 <a href="https://www.youtube.com/channel/UCLnk_QrbvOm1mvlKJPgr6WQ" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="uclnk_qrbvom1mvlkjpgr6wq" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pathik455" target="blank"><img align="center" src="https://vinitshahdeo.github.io/CodeChef-VIT-Website/img/about/logo.jpeg" alt="pathik455" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pathik455" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="pathik455" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ps_455" target="blank"><img align="center" src="https://www.stopstalk.com/stopstalk/static/images/codeforces_logo.png?_rev=20200525084052" alt="ps_455" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ps_455" target="blank"><img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="ps_455" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ps_455" target="blank"><img align="center" src="https://www.stopstalk.com/stopstalk/static/images/codeforces_logo.png?_rev=20200525084052" alt="pathik455" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pathik455" target="blank"><img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="ps_455" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pathik455/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="https://auth.geeksforgeeks.org/user/pathik455/profile" height="30" width="40" /></a>
  </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
